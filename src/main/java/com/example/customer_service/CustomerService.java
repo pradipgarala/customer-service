@@ -1,5 +1,6 @@
 package com.example.customer_service;
 
+import com.example.customer_service.feign.AccountClient;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
 

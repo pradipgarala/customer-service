@@ -6,6 +6,9 @@
 # http://localhost:8090/swagger-ui/index.html
 
 
-* Feign Client
-* Service Discovery
+* feign client
+* service discovery
+* load balancer http://localhost:8090/load-balancer/
+  * start 2 instances of account-service
+* swagger
 * 
